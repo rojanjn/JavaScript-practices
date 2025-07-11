@@ -60,17 +60,18 @@ main {
 }
 
 .container h2 {
-    background: black;
+    background: rgba(0, 0, 0, 0.507);
     color: white;
-    padding: 1rem;
+    padding: 1em 2em;
     border-radius: 8px;
     margin-bottom: 2.5rem;
     margin-top: 5em;
+
     letter-spacing: 2px;
 }
 
 .color {
-    color: bisque;
+    color: rgb(65, 13, 10);
 }
 
 .btn {
