@@ -1,21 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Rojan Jafarnezhad">
     <meta name="keywords" content="HTML, CSS, DOM, JS">
-    
-    <title>Color Flipper</title>
 
+    <title>Simple Color Flipper</title>
+
+    <!-- styles -->
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    
-    <div id="clickMe">
-        <button class="btn">Click Me</button>
+    <nav>
+        <div class="navCenter">
+            <h4>Color Flipper</h4>
+
+            <ul class="navLinks">
+                <li>
+                    <a href="colorFlipper.html">Home</a>
+                </li>
+                <li>
+                    <a href="https://github.com/rojanjn/JavaScript-practices/tree/main/color-flipper">Source Code</a>
+                </li>
+                <li>
+                    <a href="hex.html">Hex</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h2>Background Color: 
+            <span class="color">
+                #f1f5f8
+            </span>
+        </h2>
+        <button class="btn btn-hero" id="btn">Click Me</button>
     </div>
 
+    <!-- javascript -->
     <script src="script.js"></script>
 </body>
+
 </html>
