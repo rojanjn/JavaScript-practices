@@ -1,6 +1,6 @@
 # JavaScript Practice Playground
 
-Welcome to my JavaScript sandbox! This repository is a growing collection of JS practice problems, code snippets, small projects, and wild experiments as I work my way through mastering JavaScript—one bug at a time. 🐛💥
+Welcome to my JavaScript sandbox! This repository is a growing collection of JS practice problems, code snippets, small projects, and wild experiments as I work my way through mastering JavaScript, one bug at a time. 🐛
 
 ## What's Inside
 
