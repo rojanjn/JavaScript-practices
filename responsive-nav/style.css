@@ -149,6 +149,10 @@ nav {
     transition: var(--transition);
 }
 
+.show-links {
+  height: 10rem;
+}
+
 @media screen and (min-width: 800px) {
     .navCenter {
         max-width: 1170px;
